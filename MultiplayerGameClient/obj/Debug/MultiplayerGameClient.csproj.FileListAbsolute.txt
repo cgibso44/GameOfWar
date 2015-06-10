@@ -1,0 +1,15 @@
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\bin\Debug\MultiplayerGameClient.exe.config
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\obj\Debug\MultiplayerGameClient.csprojResolveAssemblyReference.cache
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\obj\Debug\MainWindow.baml
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\obj\Debug\MainWindow.g.cs
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\obj\Debug\App.g.cs
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\obj\Debug\MultiplayerGameClient_MarkupCompile.cache
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\obj\Debug\MultiplayerGameClient.g.resources
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\obj\Debug\MultiplayerGameClient.Properties.Resources.resources
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\obj\Debug\MultiplayerGameClient.csproj.GenerateResource.Cache
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\bin\Debug\MultiplayerGameClient.exe
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\bin\Debug\MultiplayerGameClient.pdb
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\bin\Debug\MultiplayerGameLibrary.dll
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\bin\Debug\MultiplayerGameLibrary.pdb
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\obj\Debug\MultiplayerGameClient.exe
+C:\5th Semester\INFO5060 Component-based Prgramming with .NET\MultiplayerGameProject\MultiplayerGameClient\obj\Debug\MultiplayerGameClient.pdb
